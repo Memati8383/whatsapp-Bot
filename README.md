@@ -4,11 +4,11 @@ Bu proje, WhatsApp üzerinden otomatik mesajlaşma, zamanlama ve kişi yönetimi
 
 ## 🚀 Özellikler
 
-*   **Toplu Mesaj Gönderimi**: Kişilere veya gruplara otomatik mesaj gönderin.
-*   **Zamanlayıcı**: Mesajları ileri bir tarih ve saat için planlayın.
-*   **Kişi Yönetimi**: Excel/CSV ile toplu kişi ekleyin ve düzenleyin.
-*   **Modern Arayüz**: Koyu/Açık tema seçenekleri ve özelleştirilebilir renkler.
-*   **Raporlama**: Gönderim geçmişini Excel olarak dışa aktarın.
+- **Toplu Mesaj Gönderimi**: Kişilere veya gruplara otomatik mesaj gönderin.
+- **Zamanlayıcı**: Mesajları ileri bir tarih ve saat için planlayın.
+- **Kişi Yönetimi**: Excel/CSV ile toplu kişi ekleyin ve düzenleyin.
+- **Modern Arayüz**: Koyu/Açık tema seçenekleri ve özelleştirilebilir renkler.
+- **Raporlama**: Gönderim geçmişini Excel olarak dışa aktarın.
 
 ## 🛠 Kurulum
 
