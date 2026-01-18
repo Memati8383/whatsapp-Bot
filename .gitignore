@@ -1,0 +1,6 @@
+__pycache__/
+dist/
+build/
+*.spec
+selenium_user_data/
+*.db
